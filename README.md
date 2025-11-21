@@ -1,3 +1,5 @@
+# Web3 Trading Team – Data Science Assignment  
+**Candidate:** Akarshit Singh
 # Trading Sentiment Analysis Project
 
 ## Objective
@@ -42,7 +44,13 @@ All CSV files were merged, cleaned, and preprocessed to create a single consolid
 
 4. Report Generation  
    - Created a professional PDF report (`ds_report.pdf`)  
-   - Included title page, sections, EDA plots, insights, and conclusions  
+   - Included title page, sections, EDA plots, insights, and conclusions
+     
+## Submission (exactly as required)
+- Root folder: `ds_akarshitsingh` ✓  
+- Structure: notebooks, csv_files/, outputs/, ds_report.pdf, README.md ✓  
+- Processed data: `csv_files/merged_data.csv` (included)  
+- Raw datasets: available in the original assignment links (not uploaded due to size – standard practice)
 
 ## Instructions to Run (Optional)
 - Open the notebooks in the `notebooks/` folder  
@@ -63,4 +71,5 @@ All CSV files were merged, cleaned, and preprocessed to create a single consolid
 
 ## Author
 Akarshit Singh  
-Date: 20-Nov-2025
+Date: 21-Nov-2025
+Thank you for the opportunity!
